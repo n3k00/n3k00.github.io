@@ -3,12 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1cec29c6a0a66289aadbe7c0caf3f38e",
-"assets/AssetManifest.json": "cbc53aae578e2a642eeb1fb80e583f99",
-"assets/assets/images/logo.png": "837c4288713dbe56af119bf799ccedee",
+const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
+"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "412345c92a6323da5161957c0c0c1a00",
-"assets/NOTICES": "37266b5e3820c9551610c4adc2cfa06a",
+"assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
+"assets/NOTICES": "9338dcce26dd39bce16e576d9c89b591",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "bbf39143dfd758d8d847453b120c8ebb",
@@ -24,11 +23,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "1cec29c6a0a66289aadbe7c0caf3f38e
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "aa764af121641fd059cda78744bb358f",
-"/": "aa764af121641fd059cda78744bb358f",
-"main.dart.js": "98302cf89c04896ae29881e2fbff3446",
-"manifest.json": "5ffded85640b1c768106e64f9b6d5ec6",
-"version.json": "3be553fa6d30b3ae8269819f3545b2ee"};
+"index.html": "3a84698f19351c719851b5e419049020",
+"/": "3a84698f19351c719851b5e419049020",
+"main.dart.js": "30de970b3d02017e560874689a78a157",
+"manifest.json": "db29d7174c78b67158ad27f8f3eb3cf6",
+"version.json": "8ff5dd65375511849ca6d83c09f31ebb"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
